@@ -1,0 +1,11 @@
+html,
+body {
+  background-image: linear-gradient(
+    to top,
+    #190200,
+    #270802,
+    #340903,
+    #430802,
+    #510600
+  );
+}
